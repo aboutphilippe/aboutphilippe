@@ -4,7 +4,7 @@
 
 Hey there, my name is Philippe Brule and I am a startup founder and CTO.
 
-Now I live in Berlin and [bringing open source applications to the widest audience](https://www.restack.io/about?utm_source=github&utm_medium=profile&utm_campaign=philippe&utm_content=githubprofile&utm_term=aboutphilippe).
+I'm living in Berlin and [creating the next generation of open source developers](https://www.restack.io/about?utm_source=github&utm_medium=profile&utm_campaign=philippe&utm_content=githubprofile&utm_term=aboutphilippe).
 
 - 🔭&nbsp; I’m currently working on [Restack](https://www.restack.io/about?utm_source=github&utm_medium=profile&utm_campaign=philippe&utm_content=githubprofile&utm_term=aboutphilippe).
 - ✅&nbsp; I founded two companies, [Sponsokit](https://www.sponsokit.com) in 2015, an Influencer Marketing SaaS and [Mon Nouvel Opticien](https://www.monnouvelopticien.com) in 2010, an Ecommerce shop.
